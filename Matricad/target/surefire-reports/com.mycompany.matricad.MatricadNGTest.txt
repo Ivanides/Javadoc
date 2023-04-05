@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.matricad.MatricadNGTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.301 sec <<< FAILURE!
+testGetIndexDe2(com.mycompany.matricad.MatricadNGTest)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.IllegalArgumentException
+	at com.mycompany.matricad.Matricad.getIndexDe(Matricad.java:58)
+	at com.mycompany.matricad.MatricadNGTest.testGetIndexDe2(MatricadNGTest.java:110)
+
+testGetIndexDe3(com.mycompany.matricad.MatricadNGTest)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.util.NoSuchElementException: hola
+	at com.mycompany.matricad.Matricad.getIndexDe(Matricad.java:67)
+	at com.mycompany.matricad.MatricadNGTest.testGetIndexDe3(MatricadNGTest.java:121)
+

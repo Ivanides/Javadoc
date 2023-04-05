@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-05T10:30:10Z" name="com.mycompany.vocals.VocalsNGTest" finished-at="2023-04-05T10:30:10Z" duration-ms="14">
+    <groups>
+    </groups>
+    <test started-at="2023-04-05T10:30:10Z" name="Command line test" finished-at="2023-04-05T10:30:10Z" duration-ms="14">
+      <class name="com.mycompany.vocals.VocalsNGTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="setUpClass" finished-at="2023-04-05T12:30:10Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="setUpMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testEsVocal()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="testEsVocal" finished-at="2023-04-05T12:30:10Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEsVocal -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="setUpMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="tearDownMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testEsVocal2()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="testEsVocal2" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEsVocal2 -->
+        <test-method signature="testEsVocal6()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="testEsVocal6" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEsVocal6 -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="setUpMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="setUpMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testEsVocal3()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="testEsVocal3" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEsVocal3 -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="setUpMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="tearDownMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testEsVocal4()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="testEsVocal4" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEsVocal4 -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="tearDownMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="tearDownMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="setUpMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testEsVocal5()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="testEsVocal5" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEsVocal5 -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="tearDownMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="tearDownMethod" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.mycompany.vocals.VocalsNGTest@7a9273a8]" started-at="2023-04-05T12:30:10Z" name="tearDownClass" finished-at="2023-04-05T12:30:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.mycompany.vocals.VocalsNGTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.mycompany.vocals.VocalsNGTest -->
+</testng-results>
